@@ -1,0 +1,82 @@
+{
+    "practice": {
+        "suyie@gmail.com": {
+            "progress": [{
+                    "startDate": "2019-09-23",
+                    "target": 15,
+                    "data": [24, 8, 7, 17, 14, 1, 22]
+                },
+                {
+                    "startDate": "2019-09-30",
+                    "target": 15,
+                    "data": [13, 15, 11, 7, 19, 8, 25]
+                },
+                {
+                    "startDate": "2019-10-07",
+                    "target": 15,
+                    "data": [16, 8, 4, 18, 3, 13, 21]
+                },
+                {
+                    "startDate": "2019-10-14",
+                    "target": 15,
+                    "data": [12, 3, 5, 13, 17, 18, 6]
+                },
+                {
+                    "startDate": "2019-10-21",
+                    "target": 15,
+                    "data": [21, 16, 7, 10, 17, 5, 9]
+                },
+                {
+                    "startDate": "2019-10-28",
+                    "target": 15,
+                    "data": [6, 22, 21, 15, 12, 19, 4]
+                },
+                {
+                    "startDate": "2019-11-04",
+                    "target": 15,
+                    "data": [4, 15, 14, 21, 25, 9, 19]
+                },
+                {
+                    "startDate": "2019-11-11",
+                    "target": 15,
+                    "data": [21, 1, 12, 4, 10, 23, 13]
+                }
+            ],
+            "recordings": [{
+                    "time": 1574429372828,
+                    "topic": "Travels & vacation",
+                    "prompt": {
+                        "title": "Most Memorable Travel Experience"
+                    },
+                    "status": 1,
+                    "feedback": {
+                        "username": "yawen",
+                        "options": ["accent", "tone", "words and phrases"],
+                        "comment": "I like the way you described your first time in France. That reminds me of my college life in Paris."
+                    }
+                },
+                {
+                    "time": 1574429342828,
+                    "topic": "Family",
+                    "prompt": {
+                        "title": "How many siblings do you have?"
+                    },
+                    "status": 0
+                },
+                {
+                    "time": 1574428372828,
+                    "topic": "Food & cuisines",
+                    "prompt": {
+                        "title": "The Worst Dinner Last Week"
+                    },
+                    "status": 2,
+                    "feedback": {
+                        "username": "yawen",
+                        "options": ["accent", "tone", "words and phrases"],
+                        "comment": "emmmm"
+                    }
+                }
+            ]
+        }
+    }
+}

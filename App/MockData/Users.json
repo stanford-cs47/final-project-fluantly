@@ -1,0 +1,137 @@
+{
+  "users": {
+    "suyie@gmail.com": {
+      "name": "Suyie",
+      "profileImg": "https://i0.wp.com/365webresources.com/wp-content/uploads/2016/09/FREE-PROFILE-AVATARS.png?resize=502%2C494&ssl=1",
+      "gender": "female",
+      "age": 20,
+      "occupation": "Student",
+      "city": "Stanford",
+      "state": "CA",
+      "languages": ["English", "Japanese", "Cantonese"],
+      "interests": ["Photography", "Travel", "Music"],
+      "isOnline": false,
+      "friends": ["louise", "lily", "henry", "linda", "kevin", "michael", "katie", "ben"],
+    },
+    "yawen": {
+      "name": "Yawen",
+      "profileImg": "https://i0.wp.com/365webresources.com/wp-content/uploads/2016/09/FREE-PROFILE-AVATARS.png?resize=502%2C494&ssl=1",
+      "gender": "female",
+      "age": 20,
+      "occupation": "Student",
+      "city": "Stanford",
+      "state": "CA",
+      "languages": ["English", "Chinese", "Japanese"],
+      "interests": ["Movies", "Dance", "Music"],
+      "isOnline": false
+    },
+    "lily": {
+      "name": "Lily",
+      "profileImg": "https://i0.wp.com/365webresources.com/wp-content/uploads/2016/09/FREE-PROFILE-AVATARS.png?resize=502%2C494&ssl=1",
+      "gender": "female",
+      "age": 20,
+      "occupation": "Student",
+      "city": "Menlo Park",
+      "state": "CA",
+      "languages": ["English", "Chinese", "Japanese"],
+      "interests": ["Movies", "Dance", "Music"],
+      "isOnline": true
+    },
+    "ibrahima": {
+      "name": "Ibrahima",
+      "profileImg": "https://i0.wp.com/365webresources.com/wp-content/uploads/2016/09/FREE-PROFILE-AVATARS.png?resize=502%2C494&ssl=1",
+      "gender": "male",
+      "age": 20,
+      "occupation": "Student",
+      "city": "Los Angeles",
+      "state": "CA",
+      "languages": ["English", "Chinese", "Japanese"],
+      "interests": ["Movies", "Dance", "Music"],
+      "isOnline": true
+    },
+    "linda": {
+      "name": "Linda",
+      "profileImg": "https://i0.wp.com/365webresources.com/wp-content/uploads/2016/09/FREE-PROFILE-AVATARS.png?resize=502%2C494&ssl=1",
+      "gender": "female",
+      "age": 20,
+      "occupation": "Student",
+      "city": "San Francisco",
+      "state": "CA",
+      "languages": ["English", "Chinese", "Japanese"],
+      "interests": ["Movies", "Dance", "Music"],
+      "isOnline": false
+    },
+    "kevin": {
+      "name": "Kevin",
+      "profileImg": "https://i0.wp.com/365webresources.com/wp-content/uploads/2016/09/FREE-PROFILE-AVATARS.png?resize=502%2C494&ssl=1",
+      "gender": "male",
+      "age": 20,
+      "occupation": "Student",
+      "city": "Oakland",
+      "state": "CA",
+      "languages": ["English", "Chinese", "Japanese"],
+      "interests": ["Movies", "Dance", "Music"],
+      "isOnline": true
+    },
+    "michael": {
+      "name": "Michael",
+      "profileImg": "https://i0.wp.com/365webresources.com/wp-content/uploads/2016/09/FREE-PROFILE-AVATARS.png?resize=502%2C494&ssl=1",
+      "gender": "male",
+      "age": 20,
+      "occupation": "Student",
+      "city": "New York",
+      "state": "NY",
+      "languages": ["English", "Chinese", "Japanese"],
+      "interests": ["Movies", "Dance", "Music"],
+      "isOnline": true
+    },
+    "james": {
+      "name": "James",
+      "profileImg": "https://i0.wp.com/365webresources.com/wp-content/uploads/2016/09/FREE-PROFILE-AVATARS.png?resize=502%2C494&ssl=1",
+      "gender": "male",
+      "age": 20,
+      "occupation": "Student",
+      "city": "Stanford",
+      "state": "CA",
+      "languages": ["English", "Chinese", "Japanese"],
+      "interests": ["Movies", "Dance", "Music"],
+      "isOnline": false
+    },
+    "katie": {
+      "name": "Katie",
+      "profileImg": "https://i0.wp.com/365webresources.com/wp-content/uploads/2016/09/FREE-PROFILE-AVATARS.png?resize=502%2C494&ssl=1",
+      "gender": "female",
+      "age": 20,
+      "occupation": "Student",
+      "city": "San Jose",
+      "state": "CA",
+      "languages": ["English", "Chinese", "Japanese"],
+      "interests": ["Movies", "Dance", "Music"],
+      "isOnline": true
+    },
+    "ben": {
+      "name": "Ben",
+      "profileImg": "https://i0.wp.com/365webresources.com/wp-content/uploads/2016/09/FREE-PROFILE-AVATARS.png?resize=502%2C494&ssl=1",
+      "gender": "male",
+      "age": 20,
+      "occupation": "Student",
+      "city": "Seattle",
+      "state": "WA",
+      "languages": ["English", "Chinese", "Japanese"],
+      "interests": ["Movies", "Dance", "Music"],
+      "isOnline": false
+    },
+    "someone": {
+      "name": "Not Your Friend",
+      "profileImg": "https://i0.wp.com/365webresources.com/wp-content/uploads/2016/09/FREE-PROFILE-AVATARS.png?resize=502%2C494&ssl=1",
+      "gender": "female",
+      "age": 20,
+      "occupation": "Student",
+      "city": "Seattle",
+      "state": "WA",
+      "languages": ["English", "Chinese", "Japanese"],
+      "interests": ["Movies", "Dance", "Music"],
+      "isOnline": false
+    }
+  }
+}

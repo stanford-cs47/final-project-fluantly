@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "CS 47 Final Project",
-    "slug": "finalProject",
+    "name": "Fluantly",
+    "slug": "fluantly_app",
     "privacy": "public",
     "sdkVersion": "35.0.0",
     "platforms": [
