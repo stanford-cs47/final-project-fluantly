@@ -1,0 +1,41 @@
+{
+  "posts": [
+    {
+      "username": "suyie@gmail.com",
+      "text": "I practiced for an average of 15 minutes per day this week! I am almost there!!! (My goal is 15min/day)",
+      "likes": [],
+      "comments": [
+        {
+          "username": "yawen",
+          "text": "Great job!"
+        }
+      ]
+    },
+    {
+      "username": "yawen",
+      "text": "I practiced six times for the past week!",
+      "likes": [
+        "lily",
+        "henry"
+      ],
+      "comments": [
+        {
+          "username": "suyie@gmail.com",
+          "text": "Proud of you!"
+        }
+      ]
+    },
+    {
+      "username": "ibrahima",
+      "text": "Today I met an old lady in subway. She was lost but could only understand Spanish. I am glad that I was able to help her !!!",
+      "likes": [
+        "a",
+        "b",
+        "c",
+        "d",
+        "suyie@gmail.com"
+      ],
+      "comments": []
+    }
+  ]
+}
